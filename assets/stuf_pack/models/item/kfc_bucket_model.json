@@ -1,1 +1,6 @@
-
+{
+  "parant": "minecraft:item/generated",
+  "textures": {
+    "layer0": "stuf_pack:item/kfc_bucket"
+  }
+}
